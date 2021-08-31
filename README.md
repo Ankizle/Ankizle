@@ -1,1 +1,1 @@
-I like to make programming languages, and am working on a major one named [Tusk](https://github.com/tusklang/tusk)
+I like to make programming langauges, and I'm working on a cool one named [Tusk](https://github.com/tusklang/tusk) ;)
